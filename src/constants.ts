@@ -7,10 +7,10 @@ export const PERSONAL_INFO = {
   name: "Umm E Hani",
   title: "Software Quality Assurance",
   location: "Karachi, Pakistan",
-  email: "hani0080@outlook.com",
+  email: "https://github.com/hani0080/",
   phone: "+923102274073",
   linkedin: "https://www.linkedin.com/in/umm-e-hani-14a602257/",
-  github: "https://github.com/hani0080/",
+  github: "https://github.com/Ummehani-hani/",
   summary: "Software Quality Assurance enthusiast with skills in manual testing, test case design, and bug reporting. Hands-on experience in automation using Selenium and Playwright, along with API testing. Recognized for academic excellence, with strong problem-solving and collaboration skills to ensure software quality and reliability."
 };
 
@@ -67,19 +67,19 @@ export const PROJECTS = [
     title: "Adactin Automation Framework (Selenium + C#)",
     tech: "Selenium + C#",
     description: "Automated Adactin Hotel Booking app using Selenium with C# and MSTest Framework, applying Page Object Model (POM) for maintainability.",
-    link: "https://github.com/hani0080/Adactin-Hotel-Booking-Automation"
+    link: "https://github.com/Ummehani-hani/Adactin-Hotel-Booking-Automation"
   },
   {
     title: "Demo WebShop Playwright Automation Framework (TypeScript)",
     tech: "Playwright + TypeScript",
     description: "Performed end-to-end testing with Playwright (TypeScript), applying Page Object Model (POM) for maintainability.",
-    link: "https://github.com/hani0080/DemoWebShop-Playwright-Test-Automation"
+    link: "https://github.com/Ummehani-hani/DemoWebShop-Playwright-Test-Automation"
   },
   {
     title: "Manual Testing (OpenCart Application)",
     tech: "Manual Testing",
     description: "Performed functional and regression testing, designed test cases, reported defects, and validated fixes to ensure application stability.",
-    link: "https://github.com/hani0080/OpenCart-Manual-Testing"
+    link: "https:https://github.com/Ummehani-hani/OpenCart-Manual-Testing"
   }
 ];
 
